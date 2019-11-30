@@ -50,5 +50,5 @@ Consta de direfentes etapas:
   La lista de materiales y la configuración del circuito pueden consultarse [aquí](https://www.tinkercad.com/things/6LapaImMSVQ-circuito-maquina-turing/).
   
   ##Demostración
-  Una demostración en video disponible [aquí](https://youtu.be/O2_TTRmUs6w)
+  Una demostración en video disponible [aquí](https://youtu.be/SVJ2mKYP-Xs)
   
